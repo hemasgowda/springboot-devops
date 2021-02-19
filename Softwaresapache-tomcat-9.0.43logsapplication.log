@@ -229,3 +229,7 @@
 2021-02-19 17:46:33.294 [INFO ] [restartedMain] o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9999 (http) with context path ''
 2021-02-19 17:46:33.302 [INFO ] [restartedMain] c.m.s.SpringbootDevopsApplication - Started SpringbootDevopsApplication in 1.029 seconds (JVM running for 27134.58)
 2021-02-19 17:46:33.304 [INFO ] [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-02-19 18:32:48.436 [INFO ] [Thread-36] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-19 18:32:48.452 [INFO ] [Thread-36] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-02-19 18:32:48.459 [INFO ] [Thread-36] c.z.h.HikariDataSource - HikariPool-7 - Shutdown initiated...
+2021-02-19 18:32:48.464 [INFO ] [Thread-36] c.z.h.HikariDataSource - HikariPool-7 - Shutdown completed.
